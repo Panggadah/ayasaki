@@ -1,0 +1,6 @@
+{
+  "name": "TugasKuliah - Pengingat & Portal Tugas Mahasiswa",
+  "description": "Aplikasi pengingat tugas kuliah terpadu. Penanggung Jawab (PJ) Mata Kuliah dapat mengunggah dan memperbarui tugas, dan mahasiswa dapat memantau deadline secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
